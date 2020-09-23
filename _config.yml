@@ -1,1 +1,12 @@
+title: "Farhan's Corner"
+author: "Farhan Wali"
+description: "Reflections on my fascinations"
+mathjax: true
+
+navigation:
+  - about.md
+
+links:
+  - github: "https://github.com/FarhanWaldo"
+
 theme: jekyll-theme-tactile
