@@ -4,5 +4,5 @@ I'm a professional software engineer in the VFX industry who has a passion for m
 ---
 # Posts
 
-- ## [Why I'm choosing D over C++...](_posts/2020-09-23-hello-world.md)
+- ## [Why I'm choosing D over C++...](_posts/2020-09-23-d-over-c++.md)
 
