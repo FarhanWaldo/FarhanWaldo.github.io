@@ -3,8 +3,9 @@ author: "Farhan Wali"
 description: "Reflections on my fascinations"
 mathjax: true
 
-navigation:
-  - about.md
+pages_list:
+  About: "/about.md"
+  Archive: "/archive.md"
 
 links:
   - github: "https://github.com/FarhanWaldo"
