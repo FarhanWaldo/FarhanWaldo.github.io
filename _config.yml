@@ -4,8 +4,8 @@ description: "Reflections on my fascinations"
 mathjax: true
 
 pages_list:
-  About: "/about.md"
-  Archive: "/archive.md"
+  About: '/about'
+  Archive: '/archive'
 
 links:
   - github: "https://github.com/FarhanWaldo"
